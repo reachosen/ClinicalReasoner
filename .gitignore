@@ -1,0 +1,5 @@
+.streamlit/secrets.toml
+Readmissionv2.db
+__pycache__/
+*.pyc
+*.pkl
